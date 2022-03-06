@@ -1,0 +1,64 @@
+body{
+    background-color: #D7263D;
+
+}
+
+.bienvenida{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+#buscar{
+    background-color: white;
+    color: black;
+}
+
+.pastel{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+#logo{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+}
+
+th{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+input checkbox{
+    padding: 30px;
+    margin: 70px;
+}
+
+.tabla-Pastel{
+    width: 100%;
+}
+#table{
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.container label{
+    font-size: 17px;
+    font-weight: bold;
+}
+.col-9 p{
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Tahoma';
+    font-style: oblique;
+    font-weight: bold;
+}
+
+p.imagen{
+    text-align: center;
+    object-fit: cover;
+}
